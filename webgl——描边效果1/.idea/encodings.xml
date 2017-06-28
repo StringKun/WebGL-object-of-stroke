@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/js/GlobalVar.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/js/loadBall.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/js/util/FrameGlobalVar.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/js/util/GLUtil.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/js/util/LoadObjUtil.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/js/util/LoadShaderUtil.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/js/util/MatrixState.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/js/util/ObjObject.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/shader/mbshader.bns" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/shader/shader.bns" charset="GBK" />
+  </component>
+</project>
